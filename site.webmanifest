@@ -1,0 +1,9 @@
+{
+    "name":"GROCERIES",
+    "short_name":"GROCERIES",
+    "icons":[{"src":"/android-chrome-192x192.png","sizes":"192x192","type":"image/png"},
+    {"src":"/android-chrome-512x512.png","sizes":"512x512","type":"image/png"}],
+    "theme_color":"beige",
+    "background_color":"linear-gradient(-45deg, #ee7752, #e73c7e, #e3e1ba, #dee99e) ",
+    "display":"standalone"
+}
