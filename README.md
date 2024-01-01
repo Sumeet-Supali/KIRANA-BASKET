@@ -1,5 +1,13 @@
 # KIRANA-BASKET!!
-[adding items](https://github.com/Sumeet-Supali/KIRANA-BASKET/assets/77237460/e8551552-5525-4e77-9a6d-d33e0ae46e79)
-[preloader](https://github.com/Sumeet-Supali/KIRANA-BASKET/assets/77237460/a09d4507-a46a-4c76-a9ae-dc184b3aee7f)!
-[interface](https://github.com/Sumeet-Supali/KIRANA-BASKET/assets/77237460/583718d0-ce05-4522-b6cd-f7672ff2ea7a)
+PRELOADER -
 
+![preloader](https://github.com/Sumeet-Supali/KIRANA-BASKET/assets/77237460/9e0f53ad-c651-4aee-b79e-84dbb149786f)
+
+
+INTERFACE-
+
+![interface](https://github.com/Sumeet-Supali/KIRANA-BASKET/assets/77237460/9bf195f2-3289-43c1-8a81-e80e041e668e)
+
+ADDING ITEMS - 
+
+![adding items](https://github.com/Sumeet-Supali/KIRANA-BASKET/assets/77237460/ff1f99e7-3ff8-487f-92dc-b3ac5464c1fc)
